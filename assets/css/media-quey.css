@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 768px) {
+    /* .img-2 {
+        background-image: url(../img/produt-1.jpg);
+    } */
+
+    .card-img {
+        width: 200px;
+    }
+}
+
+@media (max-width: 315px) {
+    header {
+        padding: 25px 7px;
+    }
+
+    .conteiner {
+        padding: 3px;
+    }
+
+    .card-product {
+        width: 150px;
+    }
+
+}
+
+@media (max-width: 310px) {
+    .conteiner {
+        flex-direction: column;
+        align-items: center;
+        row-gap: 20px;
+    }
+}
