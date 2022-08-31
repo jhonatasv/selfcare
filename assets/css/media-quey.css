@@ -9,7 +9,7 @@
 
 @media screen and (min-width: 375px) and (max-width:400px) {
     .conteiner {
-        padding: 14px 20px;   
+        padding: 14px 20px 35px;   
     }
     .card-product {
         padding: 4px;
@@ -18,12 +18,16 @@
 
 @media screen and (min-width: 320px) and (max-width: 374px) {
     .conteiner {
-        padding: 5px;
+        padding: 14px 5px 35px;
     }
 
     .card-img {
         width: auto;
         /* height: 145px; */
+    }
+
+    footer .conteiner-ifon {
+        padding: 20px 10px  10px
     }
 }
 
@@ -39,7 +43,7 @@
     }
 
     .conteiner {
-        padding: 3px;
+        padding: 14px 3px 35px;
     }
 
     .card-product {
