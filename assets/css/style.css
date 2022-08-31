@@ -89,6 +89,10 @@ header {
     margin-top: 20px;
 }
 
+.card-product {
+  padding: 5px;
+}
+
 .img-1 {
     background: #C4C4C4 url(../img/produt-1.jpg);
 }
