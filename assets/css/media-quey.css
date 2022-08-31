@@ -11,6 +11,9 @@
     .conteiner {
         padding: 14px 20px;   
     }
+    .card-product {
+        padding: 4px;
+    }
 }
 
 @media screen and (min-width: 320px) and (max-width: 374px) {
@@ -24,7 +27,13 @@
     }
 }
 
-@media (max-width: 315px) {
+@media (max-width: 328px) {
+    .card-product {
+        padding: 0;
+    }
+}
+
+@media  (max-width: 319px) {
     header {
         padding: 25px 7px;
     }
@@ -37,7 +46,11 @@
         width: 150px;
     }
 
-}
+    .card-img {
+        width: 150px;
+    }
+
+} 
 
 @media (max-width: 310px) { /*Galaxy Fold*/
     .conteiner {
