@@ -1,12 +1,26 @@
 @charset "UTF-8";
 
 @media screen and (min-width: 768px) {
-    /* .img-2 {
-        background-image: url(../img/produt-1.jpg);
-    } */
-
     .card-img {
         width: 200px;
+        height: 200px;
+    }
+}
+
+@media screen and (min-width: 375px) and (max-width:400px) {
+    .conteiner {
+        padding: 14px 20px;   
+    }
+}
+
+@media (max-width: 320px) {
+    .conteiner {
+        padding: 5px;
+    }
+
+    .card-img {
+        width: auto;
+        /* height: 145px; */
     }
 }
 
@@ -25,10 +39,10 @@
 
 }
 
-@media (max-width: 310px) {
+@media (max-width: 310px) { /*Galaxy Fold*/
     .conteiner {
         flex-direction: column;
         align-items: center;
-        row-gap: 20px;
+        row-gap: 25px;
     }
 }
