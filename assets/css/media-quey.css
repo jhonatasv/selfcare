@@ -26,9 +26,11 @@
         /* height: 145px; */
     }
 
-    footer .conteiner-ifon {
-        padding: 20px 10px  10px
+    .conteiner-ifon, 
+    .conteiner-icon {
+        padding: 20px 35px  10px;
     }
+    
 }
 
 @media (max-width: 328px) {
