@@ -175,7 +175,7 @@ footer {
     color: var(---color-black);
 }
 
-.campo-email fieldset {
+fieldset {
     display: flex;
     flex-direction: column;
     row-gap: 10px;
@@ -183,22 +183,24 @@ footer {
     border: none;
 }
 
-.campo-email input {
+.input-email {
     padding: 10px;
     border-radius: 3px;
-}
-
-input:nth-last-of-type(2) {
     color: #A8A4A4;
     border: 0.395833px solid #D9D9D9;
 }
 
 .btn-submit{
+    width: 193px;
+    margin-top: 15px;
     background-color: #5CA720;
     font-weight: 800;
     color: var(---color-white);
     border: none;
     transition: all 0.5s ease;
+    border-radius: 3px;
+    padding: 10px;
+
 }
 
 .btn-submit:hover {
