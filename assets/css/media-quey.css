@@ -5,12 +5,38 @@
         width: 200px;
         height: 200px;
     }
+
+    .conteiner-ifon {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    } 
+
+    fieldset {
+        padding: 0;
+    }
+
+    .conteiner-input {
+        display: flex;
+    } 
+
+    .btn-submit {
+        border-radius: 0px 5px 5px 0px;
+        width: 100px;
+        margin: 0;
+    }
+
+    .input-email {
+        width: 250px;
+        border-radius: 5px 0px 0px 5px;
+    }
 }
 
 @media screen and (min-width: 375px) and (max-width:400px) {
     .conteiner {
         padding: 14px 20px 35px;   
     }
+
     .card-product {
         padding: 4px;
     }
