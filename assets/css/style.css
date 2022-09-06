@@ -67,8 +67,8 @@ header {
 .title { 
     display: flex;
     align-items: center;
-    justify-content: space-around;
-    padding: 20px 1px;
+    justify-content: space-between;
+    padding: 20px 35px;
     color: var(---color-black);
     border-bottom: 0.2px solid var(---color-gray);
 }
@@ -83,7 +83,7 @@ header {
     color: var(---color-black);
 }
 
-.conteiner {
+.conteiner-product {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
@@ -197,10 +197,10 @@ fieldset {
     font-weight: 800;
     color: var(---color-white);
     border: none;
-    transition: all 0.5s ease;
     border-radius: 3px;
     padding: 10px;
-
+    
+    transition: all 0.5s ease;
 }
 
 .btn-submit:hover {
