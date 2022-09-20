@@ -35,6 +35,6 @@ Nele utilizei o design do Desafio <a href="https://www.devchallenge.com.br/chall
 <div>
  <a href="https://github.com/thaysagomes">
  <img width="100px" src="https://user-images.githubusercontent.com/88457552/169096855-ab58f365-2c1c-4a2a-ab02-69fcdacbd4e8.PNG"> </a> <br>
- <a href="https://github.com/thaysagomes">thaysagomes</a> :)
+ <a href="https://github.com/thaysagomes">Thaysa Gomes</a> :)
 </div>
 
