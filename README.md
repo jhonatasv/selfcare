@@ -29,3 +29,12 @@ Nele utilizei o design do Desafio <a href="https://www.devchallenge.com.br/chall
     <img width="85" src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" /> 
 </div>
 
+<hr>
+
+## Template Criado por: <br>
+<div>
+ <a href="https://github.com/thaysagomes">
+ <img width="100px" src="https://user-images.githubusercontent.com/88457552/169096855-ab58f365-2c1c-4a2a-ab02-69fcdacbd4e8.PNG"> </a> <br>
+ <a href="https://github.com/thaysagomes">thaysagomes</a> :)
+</div>
+
